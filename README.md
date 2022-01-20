@@ -24,6 +24,8 @@ The endpoint is depolyed
 ![alt text](https://github.com/LittleAlchemy/ML-Image_classification_dog_breed/raw/main/screenshots/hyperparameter%20tuning.png?raw=true)
 
 # Result
+Teh results are good with higeh taccuracy for handwritten digit recognition using Pytorch. 
+![alt text](https://github.com/LittleAlchemy/ML-Image_classification_dog_breed/raw/main/screenshots/training%20jobs.png?raw=true)
 The summary of training model is provided in profiler report. 
 
 Thank you!
