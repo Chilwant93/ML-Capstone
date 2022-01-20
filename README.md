@@ -19,7 +19,7 @@ https://ossci-datasets.s3.amazonaws.com/mnist/t10k-labels-idx1-ubyte.gz
 The **mnist.py** for hyperparameter training operations, where we train the model numerous times with various hyperparameters and look for the optimum combination based on loss metrics.
 # Training 
 The trianing used the pytorch estimator with **mnist.py** script to perform the training job using Convolutional Neural Network. 
-![alt text](https://github.com/LittleAlchemy/ML-Capstone/raw/main/Handwritten%20digit%20recognition%20snapshots/endpoint.png?raw=true)
+![alt text](https://github.com/LittleAlchemy/ML-Capstone/raw/main/Handwritten%20digit%20recognition%20snapshots/training%20jobs.png?raw=true)
 # Deployemnt
 The endpoint is depolyed 
 
