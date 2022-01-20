@@ -30,6 +30,14 @@ The matrics of the depolyed endpiont determoind the CPU usages and memory utiliz
 # Result
 The results are good with higeh taccuracy for handwritten digit recognition using Pytorch. 
 ![alt text](https://github.com/LittleAlchemy/ML-Capstone/raw/main/Handwritten%20digit%20recognition%20snapshots/20-%20accuracy%2097.png?raw=true)
+
+| TrialComponentName                           | epochs | hidden_channels | test:accuracy - Min | test:accuracy - Max | test:accuracy - Avg |
+|----------------------------------------------|--------|-----------------|---------------------|---------------------|---------------------|
+| cnn-training-job-1642600183-aws-training-job | 2.0    | 2               | 95.0                | 97.0                | 96.0                |
+| cnn-training-job-1642600790-aws-training-job | 2.0    | 5               | 95.0                | 97.0                | 96.0                |
+| cnn-training-job-1642601115-aws-training-job | 2.0    | 10              | 96.0                | 97.0                | 96.5                |
+| cnn-training-job-1642601433-aws-training-job | 2.0    | 20              | 95.0                | 97.0                | .0                  |
+| cnn-training-job-1642600470-aws-training-job | 2.0    | 32              | 94.0                | 96.0                | 95.0                |
 The summary of training model is provided in profiler report. 
 
 Thank you!
