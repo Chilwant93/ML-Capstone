@@ -1,6 +1,6 @@
 # ML-Capstone- Handwritten Digit Recognition
 
-This is a full project of Handwritten Digit Recognition the model built Pytorch on MNIST Dataset using Sagemaker as Udacity's ML Nanodegree Capstone Project.
+This is a full project of Handwritten Digit Recognition the model built Pytorch on MNIST Dataset using Sagemaker to perform Convolutional Neural Network using Pytorch as Udacity's ML Nanodegree Capstone Project.
 
 # Project Set Up and Installation
 AWS Sagemaker studio suing Python 3 (Datascience) kernel
