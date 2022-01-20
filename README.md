@@ -17,7 +17,9 @@ https://ossci-datasets.s3.amazonaws.com/mnist/t10k-labels-idx1-ubyte.gz
 
 # Scipt file
 The **mnist.py** for hyperparameter training operations, where we train the model numerous times with various hyperparameters and look for the optimum combination based on loss metrics.
-
+# Training 
+The trianing used the pytorch estimator with **mnist.py** script to perform the training job using Convolutional Neural Network. 
+![alt text](https://github.com/LittleAlchemy/ML-Capstone/raw/main/Handwritten%20digit%20recognition%20snapshots/endpoint.png?raw=true)
 # Deployemnt
 The endpoint is depolyed 
 
@@ -26,8 +28,8 @@ The endpoint is depolyed
 The matrics of the depolyed endpiont determoind the CPU usages and memory utilizations during the trining process.
 ![alt text](https://github.com/LittleAlchemy/ML-Capstone/raw/main/Handwritten%20digit%20recognition%20snapshots/endpoint%20monitor.png?raw=true)
 # Result
-Teh results are good with higeh taccuracy for handwritten digit recognition using Pytorch. 
-![alt text](https://github.com/LittleAlchemy/ML-Image_classification_dog_breed/raw/main/screenshots/training%20jobs.png?raw=true)
+The results are good with higeh taccuracy for handwritten digit recognition using Pytorch. 
+![alt text](https://github.com/LittleAlchemy/ML-Capstone/raw/main/Handwritten%20digit%20recognition%20snapshots/20-%20accuracy%2097.png?raw=true)
 The summary of training model is provided in profiler report. 
 
 Thank you!
