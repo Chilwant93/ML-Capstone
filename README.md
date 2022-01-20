@@ -20,9 +20,11 @@ The **mnist.py** for hyperparameter training operations, where we train the mod
 
 # Deployemnt
 The endpoint is depolyed 
-![alt text](https://github.com/LittleAlchemy/ML-Capstone/raw/main/Handwritten%20digit%20recognition%20snapshots/endpoint%20monitor.png?raw=true)
-![alt text](https://github.com/LittleAlchemy/ML-Image_classification_dog_breed/raw/main/screenshots/hyperparameter%20tuning.png?raw=true)
 
+![alt text](https://github.com/LittleAlchemy/ML-Capstone/raw/main/Handwritten%20digit%20recognition%20snapshots/endpoint.png?raw=true)
+
+The matrics of the depolyed endpiont determoind the CPU usages and memory utilizations during the trining process.
+![alt text](https://github.com/LittleAlchemy/ML-Capstone/raw/main/Handwritten%20digit%20recognition%20snapshots/endpoint%20monitor.png?raw=true)
 # Result
 Teh results are good with higeh taccuracy for handwritten digit recognition using Pytorch. 
 ![alt text](https://github.com/LittleAlchemy/ML-Image_classification_dog_breed/raw/main/screenshots/training%20jobs.png?raw=true)
